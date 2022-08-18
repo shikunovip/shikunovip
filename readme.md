@@ -55,8 +55,8 @@ title="postgre" alt="postgre" width="40" height="40"/>&nbsp;
 title="jupiter" alt="jupiter" width="40" height="40"/>&nbsp;  
    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
 title="pbi" alt="pbi" width="40" height="40"/>&nbsp;    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original-wordmark.svg"
-title="slack" alt="slack" width="60" height="40"/>&nbsp;   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2000px-Slack_icon_2019.svg.png"
+title="slack" alt="slack" width="40" height="40"/>&nbsp;   
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg"
-title="tab" alt="tab" width="80" height="40"/>&nbsp; 
+title="tab" alt="tab" width="120" height="40"/>&nbsp; 
 </div>
