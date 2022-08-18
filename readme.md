@@ -23,7 +23,7 @@ My name is Ivan and I'am a data analyst from Moscow
 
 - :books: I’m learning Data Analysis in Yandex.Practicum;
 
-- :briefcase: I'm working in construction company over then 10 years;
+- :briefcase: I work in construction company over then 10 years;
 
 - :soccer: In my free time, I play football and read tech articles;
 
