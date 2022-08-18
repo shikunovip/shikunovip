@@ -53,7 +53,7 @@ title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 title="postgre" alt="postgre" width="40" height="40"/>&nbsp;   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg"
 title="jupiter" alt="jupiter" width="40" height="40"/>&nbsp;  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"
+   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
 title="pbi" alt="pbi" width="40" height="40"/>&nbsp;    
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original-wordmark.svg"
 title="slack" alt="slack" width="60" height="40"/>&nbsp;   
