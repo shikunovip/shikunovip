@@ -47,12 +47,18 @@ Projects |
 title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg"
 title="Numpy" alt="NumPy" width="40" height="40"/>&nbsp; 
+  <img src= "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
+title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"
+title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg"
 title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg"
 title="postgre" alt="postgre" width="40" height="40"/>&nbsp;   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg"
 title="jupiter" alt="jupiter" width="40" height="40"/>&nbsp;  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
+title="colab" alt="colab" width="40" height="40"/>&nbsp;    
    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
 title="pbi" alt="pbi" width="40" height="40"/>&nbsp;    
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2000px-Slack_icon_2019.svg.png"
