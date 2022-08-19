@@ -35,7 +35,7 @@ My name is Ivan and I'am a data analyst from Moscow
 
 Projects |
 :---------|
-|[yandex practicum data analyst projects](https://github.com/shikunovip/practicum_yandex_data_analyst)|
+|[Yandex_Practicum_data_analyst_projects](https://github.com/shikunovip/practicum_yandex_data_analyst)|
 
 ---
 
